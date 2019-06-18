@@ -1,5 +1,5 @@
 CREATE TABLE bears (
-  ID INT PRIMARY KEY
+  id INT PRIMARY KEY
   name TEXT
   age int
   gender text
@@ -10,3 +10,13 @@ CREATE TABLE bears (
 
 
 );
+
+CREATE TABLE bears (
+	id INTEGER PRIMARY KEY,
+	name TEXT,
+	age INTEGER,
+	gender TEXT,
+	color TEXT,
+	temperament TEXT,
+	alive INTEGER
+); 
