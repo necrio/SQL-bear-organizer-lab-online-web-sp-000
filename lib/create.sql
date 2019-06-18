@@ -1,5 +1,5 @@
 create table bears (
-  ID int PRIMARY key
+  ID INT PRIMARY KEY
   name text
   age int
   gender text
