@@ -1,4 +1,4 @@
-create table bears (
+CREATE TABLE bears (
   ID INT PRIMARY KEY
   name text
   age int
