@@ -9,4 +9,4 @@ create table bears (
 
 
 
-)
+);
